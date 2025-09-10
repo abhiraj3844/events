@@ -3,13 +3,13 @@
     {
       "year": 1974,
       "month": 9,
-      "day": 1,
+      "day": 10,
       "description": "भारत ने पोखरण में अपना पहला परमाणु परीक्षण \"स्माइलिंग बुद्धा\" के नाम से सफलतापूर्वक किया।"
     },
     {
       "year": 1989,
-      "month": 5,
-      "day": 17,
+      "month": 9,
+      "day": 10,
       "description": "संयुक्त राष्ट्र संघ में पहली बार एक एशियाई देश (भारत) ने रंगभेद नीति के खिलाफ आवाज़ उठाई।"
     },
     {
@@ -49,4 +49,5 @@
       "description": "The World Health Organization declares COVID-19 a global pandemic."
     }
   ]
+
 } 
