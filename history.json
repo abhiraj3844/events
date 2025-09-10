@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "year": 1974,
+      "month": 9,
+      "day": 1,
+      "description": "भारत ने पोखरण में अपना पहला परमाणु परीक्षण \"स्माइलिंग बुद्धा\" के नाम से सफलतापूर्वक किया।"
+    },
+    {
+      "year": 1989,
+      "month": 5,
+      "day": 17,
+      "description": "संयुक्त राष्ट्र संघ में पहली बार एक एशियाई देश (भारत) ने रंगभेद नीति के खिलाफ आवाज़ उठाई।"
+    },
+    {
+      "year": 1792,
+      "month": 5,
+      "day": 17,
+      "description": "The New York Stock Exchange is established under a buttonwood tree on Wall Street."
+    },
+    {
+      "year": 1954,
+      "month": 5,
+      "day": 17,
+      "description": "The United States Supreme Court hands down its decision in Brown v. Board of Education, declaring racial segregation in public schools unconstitutional."
+    },
+    {
+      "year": 1973,
+      "month": 5,
+      "day": 17,
+      "description": "The United States Senate begins its investigation into the Watergate scandal."
+    },
+    {
+      "year": 2001,
+      "month": 1,
+      "day": 15,
+      "description": "Wikipedia is launched, becoming one of the largest and most popular reference websites."
+    },
+    {
+      "year": 2008,
+      "month": 11,
+      "day": 4,
+      "description": "Barack Obama becomes the first African American to be elected President of the United States."
+    },
+    {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "description": "The World Health Organization declares COVID-19 a global pandemic."
+    }
+  ]
+} 
